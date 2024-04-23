@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#f8f8f8;
+}
+#br{
+	width:100vw;
+	background-color:white;
+	height:10px;
+	margin-top:10px;
+}
+.book{
+	background-color:#77777;
+	
+}
+.book-libreary{
+	background-color:#ffffff;
+}
+.price{
+	background-color:#2ecc71;
+	font-weight:900;
+	text-align:center;
+	color:white;
+}
+.author{
+	color:#777777;
+}
+#header{
+	text-align:center;
+}
+.img{
+	display:flex;
+	justify-content:center;
+	padding-top:10px;
+}
