@@ -11,6 +11,7 @@ body{
 }
 .book{
 	border-top: 20px solid white;
+	background-color: rgb(46, 204, 113);
 }
 .book-library{
 	background-color:#ffffff;
