@@ -2,19 +2,18 @@
 
 body{
 	background-color:#f8f8f8;
-}
-#br{
 	width:100vw;
-	background-color:white;
-	height:10px;
-	margin-top:10px;
+	margin:0px;
+	padding:0px;
 }
 .book{
 	border-top: 20px solid white;
-	background-color: rgb(46, 204, 113);
+	width:100%;
+	/* background-color: rgb(46, 204, 113); */
 }
 .book-library{
-	background-color:#ffffff;
+	/* background-color:#ffffff; */
+	width:100%;
 }
 .price{
 	background-color:#2ecc71;
