@@ -33,4 +33,5 @@ div.img{
 	display:flex;
 	justify-content:center;
 	padding-top:10px;
+	background-color: rgb(46, 204, 113);
 }
