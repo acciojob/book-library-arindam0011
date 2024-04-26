@@ -12,11 +12,11 @@ body{
 	/* background-color: rgb(46, 204, 113); */
 }
 .book-library{
-	/* background-color:#ffffff; */
+	background-color:#ffffff;
 	width:100%;
 }
 .price{
-	background-color:#2ecc71;
+	background-color:#ffffff;
 	font-weight:900;
 	text-align:center;
 	color:white;
