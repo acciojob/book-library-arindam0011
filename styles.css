@@ -8,12 +8,14 @@ body{
 }
 .book{
 	border-top: 20px solid white;
-	width:100%;
+	margin:auto;
+	paddign:20px;
 	/* background-color: rgb(46, 204, 113); */
 }
 .book-library{
 	background-color:#ffffff;
 	width:100%;
+	text-align: center;
 }
 .price{
 	background-color:#2ecc71;
